@@ -1,0 +1,8 @@
+= AIO折腾日记
+:author: Wangren
+:email: piconasha@gmail.com
+:keywords: AIO, NAS, Unraid
+
+本文不是教程、不是指导，只作为个人一边学习一边折腾的记录。
+
+如果能对潜在的读者起到先头趟雷的作用，那是再好不过了。
