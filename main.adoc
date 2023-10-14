@@ -7,4 +7,4 @@
 
 如果能对潜在的读者起到先头趟雷的作用，那是再好不过了。
 
-include::section/prologue.adoc[]
+include::section/prologue.adoc[序言]
